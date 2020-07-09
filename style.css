@@ -1,0 +1,156 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    
+}
+.container{
+    margin-bottom: 50px;
+   
+}
+section{
+    margin-bottom: 50px;
+}
+.top-section{
+    background-color: #F0FFF0;
+    padding-bottom: 10px;
+}
+
+.sign-btn{
+
+    width: 100px;
+    text-align: center;
+    background-color: #21B573;
+    border: none;
+    border-radius: 25px;
+    color: white!important;
+
+}
+
+.btn{
+        
+    width: 50% auto;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 25px;
+    margin-top: 20px;
+   
+      
+}
+
+.title{
+    padding-bottom: 50px;
+}
+
+.icon-img{
+    width: 80px;
+    height: 50px;
+}
+
+.summary-card{
+
+    background-color: #F8FFFB;
+    padding: 20px 10px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 20px;
+   
+  }
+
+  .summary-card:hover{
+    box-shadow: 5px 5px 15px lightgray;
+    background-color: white;
+    padding: 20px 10px;
+    border: none;
+    border-radius: 10px;
+    transform: scale(1.01)
+  }
+  
+.course-card{
+    border: none;
+    box-shadow: 5px 5px 15px lightgray;
+    border-radius: 10px;
+    padding: 25px;
+    padding-bottom: 0;
+      
+}
+.card-footer{
+    background-color: white;
+    border: none;
+    padding-top: 30px;
+}
+.card-footer img{
+    width: 20px;
+    height: 15px;
+    
+}
+.testimonial-contain img{
+    margin: 15px;
+    width:100%;
+    min-height:100%;
+   
+    
+}
+
+.testimonial-p{
+    margin-top: 10px;
+    text-align: justify;
+    
+   
+}
+
+
+.bonus-card{
+    border: none;
+    box-shadow: 5px 5px 15px lightgray;
+    border-radius: 10px;
+    padding: 25px;
+    padding-bottom: 0;
+   
+}
+.bonus-card h5{ 
+
+   
+    font-size: 15px;
+    font-weight: bold;
+}
+.bonus-card a{
+    text-decoration: none;
+    color: dimgray;
+}
+
+.bonus-card img:hover{
+   
+    transform: scale(1.05)
+  }
+
+
+.footer-section{
+    background-color: #282531;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-bottom: 0px;
+  
+}
+.footer-section h5{
+    font-weight: bold;
+    font-size: 18px;
+}
+.footer-section li{
+    list-style-type: none;
+    white-space: nowrap;
+}
+
+.footer-section li a{
+    color: white;
+    text-decoration: none;
+}
+
+footer p{
+    margin-top: 50px;
+    font-size: 12px;
+    text-align: center;
+    color: #CDCDCD;
+}
